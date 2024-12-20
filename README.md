@@ -68,10 +68,10 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Name**: Javier Estrada
+- **Email**: estrada.javier.525@gmail.com
+- **LinkedIn**: [Javier's LinkedIn Profile](https://www.linkedin.com/in/javier-p-estrada/)
+- **GitHub**: [Javier's GitHub Profile](https://github.com/EstradaJavier)
 
 ---
 
