@@ -1,7 +1,5 @@
 # 📚 Java Academic Coding Repository
 
-Welcome to the Java Academic Coding Repository! This repository contains a collection of Java projects, assignments, and exercises that I am working on as an academic journey. 
-Whether you're a fellow student, educator, or developer, I hope you find this repository useful.
 
 ## Table of Contents
 - [Projects](#projects)
@@ -37,7 +35,7 @@ To get a local copy of this repository up and running, follow these simple steps
     cd java-academic-repo
     ```
 3. **Build the projects**:
-    Follow the specific instructions in each project's README file to build and run the code.
+   Follow the specific instructions in each project's README file to build and run the code.
 
 ## Usage
 Detailed usage instructions and examples are provided within each project's directory. Be sure to check out the individual README files for more information.
@@ -64,12 +62,8 @@ Contributions are what make the open-source community such an amazing place to l
 5. **Open a Pull Request**.
 
 ## License
-Distributed under the MIT License. See `N/A` for more information.
 
 ## Contact
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/javier-p-estrada)
 - **GitHub**: [Your GitHub Profile](https://github.com/EstradaJavier)
 
 ---
